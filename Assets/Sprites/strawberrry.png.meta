@@ -1,0 +1,3096 @@
+fileFormatVersion: 2
+guid: 60a49dedcba60e444a018286be5ea177
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5342940838416519812
+    second: strawberrry_0
+  - first:
+      213: 7884911838698760511
+    second: strawberrry_1
+  - first:
+      213: -6199356045727610366
+    second: strawberrry_2
+  - first:
+      213: -2424880046446723442
+    second: strawberrry_3
+  - first:
+      213: 8502196707337347151
+    second: strawberrry_4
+  - first:
+      213: 1983846179881764851
+    second: strawberrry_5
+  - first:
+      213: -7771870937893762489
+    second: strawberrry_6
+  - first:
+      213: -7715839023787369504
+    second: strawberrry_7
+  - first:
+      213: -270137411966168541
+    second: strawberrry_8
+  - first:
+      213: -5666694514954837759
+    second: strawberrry_9
+  - first:
+      213: 2832559682720505532
+    second: strawberrry_10
+  - first:
+      213: 8364514078325427652
+    second: strawberrry_11
+  - first:
+      213: -7020361274800123553
+    second: strawberrry_12
+  - first:
+      213: -4633067869662621637
+    second: strawberrry_13
+  - first:
+      213: 1080505569367966715
+    second: strawberrry_14
+  - first:
+      213: 3501356764668844192
+    second: strawberrry_15
+  - first:
+      213: 993983296460851661
+    second: strawberrry_16
+  - first:
+      213: -1002810909239414975
+    second: strawberrry_17
+  - first:
+      213: 7868308820645976028
+    second: strawberrry_18
+  - first:
+      213: -3570490717368583286
+    second: strawberrry_19
+  - first:
+      213: -6076647944120458970
+    second: strawberrry_20
+  - first:
+      213: 5391142307027782359
+    second: strawberrry_21
+  - first:
+      213: -6321576250235573312
+    second: strawberrry_22
+  - first:
+      213: 3836766909830839467
+    second: strawberrry_23
+  - first:
+      213: -3913049941198088059
+    second: strawberrry_24
+  - first:
+      213: -7958047338529708255
+    second: strawberrry_25
+  - first:
+      213: -6985521250641232205
+    second: strawberrry_26
+  - first:
+      213: 6888223991562485383
+    second: strawberrry_27
+  - first:
+      213: -442017867836451420
+    second: strawberrry_28
+  - first:
+      213: 8496604427024806769
+    second: strawberrry_29
+  - first:
+      213: -1991378938834592753
+    second: strawberrry_30
+  - first:
+      213: 4390107282716110556
+    second: strawberrry_31
+  - first:
+      213: -4742031663609296774
+    second: strawberrry_32
+  - first:
+      213: -9201119883745331373
+    second: strawberrry_33
+  - first:
+      213: -4792038237721909694
+    second: strawberrry_34
+  - first:
+      213: 3905724730011134150
+    second: strawberrry_35
+  - first:
+      213: -4416198759097263063
+    second: strawberrry_36
+  - first:
+      213: 3331937407900271593
+    second: strawberrry_37
+  - first:
+      213: 1261827287999962382
+    second: strawberrry_38
+  - first:
+      213: 1238296730378186515
+    second: strawberrry_39
+  - first:
+      213: -2658655999590916723
+    second: strawberrry_40
+  - first:
+      213: 3935722081175259045
+    second: strawberrry_41
+  - first:
+      213: 2546793024449178876
+    second: strawberrry_42
+  - first:
+      213: 6775823581054073151
+    second: strawberrry_43
+  - first:
+      213: 3533561316352738113
+    second: strawberrry_44
+  - first:
+      213: 8610161650964350147
+    second: strawberrry_45
+  - first:
+      213: -1172770977321332817
+    second: strawberrry_46
+  - first:
+      213: 641319221615924985
+    second: strawberrry_47
+  - first:
+      213: -7781341723535748156
+    second: strawberrry_48
+  - first:
+      213: 8728589196658429416
+    second: strawberrry_49
+  - first:
+      213: -5953921091258349464
+    second: strawberrry_50
+  - first:
+      213: -1673037030991558005
+    second: strawberrry_51
+  - first:
+      213: 7558517193634903851
+    second: strawberrry_52
+  - first:
+      213: -3974599427556351722
+    second: strawberrry_53
+  - first:
+      213: -9058892956008880635
+    second: strawberrry_54
+  - first:
+      213: 7555975232333237699
+    second: strawberrry_55
+  - first:
+      213: 2163634815291636142
+    second: strawberrry_56
+  - first:
+      213: -6226109987425006259
+    second: strawberrry_57
+  - first:
+      213: 4568009149163134104
+    second: strawberrry_58
+  - first:
+      213: 979947994339556167
+    second: strawberrry_59
+  - first:
+      213: -2097866898824731026
+    second: strawberrry_60
+  - first:
+      213: -2838344151344110273
+    second: strawberrry_61
+  - first:
+      213: 623771942353368991
+    second: strawberrry_62
+  - first:
+      213: 3205507533200335784
+    second: strawberrry_63
+  - first:
+      213: 7204766091035699656
+    second: strawberrry_64
+  - first:
+      213: -615328144573328909
+    second: strawberrry_65
+  - first:
+      213: -7010744021594194852
+    second: strawberrry_66
+  - first:
+      213: 7853487912241293697
+    second: strawberrry_67
+  - first:
+      213: 9161421147638973184
+    second: strawberrry_68
+  - first:
+      213: 8634159533640050407
+    second: strawberrry_69
+  - first:
+      213: 5123424203992399454
+    second: strawberrry_70
+  - first:
+      213: 6252545210027335365
+    second: strawberrry_71
+  - first:
+      213: 1941876906296649824
+    second: strawberrry_72
+  - first:
+      213: 9092121185136968246
+    second: strawberrry_73
+  - first:
+      213: -979935396244439492
+    second: strawberrry_74
+  - first:
+      213: 8156220626391375076
+    second: strawberrry_75
+  - first:
+      213: -1155160851099280239
+    second: strawberrry_76
+  - first:
+      213: -3829793732066528592
+    second: strawberrry_77
+  - first:
+      213: -6614217909848414291
+    second: strawberrry_78
+  - first:
+      213: 9190573202702007251
+    second: strawberrry_79
+  - first:
+      213: -4110110273361724779
+    second: strawberrry_80
+  - first:
+      213: -4561836201183670900
+    second: strawberrry_81
+  - first:
+      213: 7415761214865079271
+    second: strawberrry_82
+  - first:
+      213: 5333024390117271946
+    second: strawberrry_83
+  - first:
+      213: -1553842580311231823
+    second: strawberrry_84
+  - first:
+      213: -7074898771858654513
+    second: strawberrry_85
+  - first:
+      213: 2529302391768522130
+    second: strawberrry_86
+  - first:
+      213: -2216452691859410793
+    second: strawberrry_87
+  - first:
+      213: 4062565582243119290
+    second: strawberrry_88
+  - first:
+      213: 5285549734236925758
+    second: strawberrry_89
+  - first:
+      213: 6398546531351949673
+    second: strawberrry_90
+  - first:
+      213: 446406882267991271
+    second: strawberrry_91
+  - first:
+      213: -6790847340542653169
+    second: strawberrry_92
+  - first:
+      213: 9078995831260651697
+    second: strawberrry_93
+  - first:
+      213: -4505758940570517246
+    second: strawberrry_94
+  - first:
+      213: -9092901839807950202
+    second: strawberrry_95
+  - first:
+      213: -6757395385282609332
+    second: strawberrry_96
+  - first:
+      213: 8904962779002624065
+    second: strawberrry_97
+  - first:
+      213: 5095952780545223915
+    second: strawberrry_98
+  - first:
+      213: -4711150922316398605
+    second: strawberrry_99
+  - first:
+      213: 3599373822761382381
+    second: strawberrry_100
+  - first:
+      213: 1954643605814809531
+    second: strawberrry_101
+  - first:
+      213: 5097512737070434883
+    second: strawberrry_102
+  - first:
+      213: 7078658007687832551
+    second: strawberrry_103
+  - first:
+      213: 3238516694292106953
+    second: strawberrry_104
+  - first:
+      213: -8170152157877461376
+    second: strawberrry_105
+  - first:
+      213: 4814811554959354995
+    second: strawberrry_106
+  - first:
+      213: 1695940217751654188
+    second: strawberrry_107
+  - first:
+      213: -8725874807910277632
+    second: strawberrry_108
+  - first:
+      213: -6983152888213861837
+    second: strawberrry_109
+  - first:
+      213: 8813772900471484113
+    second: strawberrry_110
+  - first:
+      213: -2438448417723879336
+    second: strawberrry_111
+  - first:
+      213: -2634897253393050793
+    second: strawberrry_112
+  - first:
+      213: 7855342071431089486
+    second: strawberrry_113
+  - first:
+      213: 4279082895535754938
+    second: strawberrry_114
+  - first:
+      213: 8697374335041203781
+    second: strawberrry_115
+  - first:
+      213: -8859056845716958022
+    second: strawberrry_116
+  - first:
+      213: 9213331969050644868
+    second: strawberrry_117
+  - first:
+      213: -2589951763294214745
+    second: strawberrry_118
+  - first:
+      213: -8759785068859867609
+    second: strawberrry_119
+  - first:
+      213: -6783077204882525883
+    second: strawberrry_120
+  - first:
+      213: 3090115671283816794
+    second: strawberrry_121
+  - first:
+      213: -9079621787661775887
+    second: strawberrry_122
+  - first:
+      213: 1721973676766144643
+    second: strawberrry_123
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: strawberrry_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2763
+        width: 90
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d61469d9f0ad5b0800000000000000
+      internalID: -5342940838416519812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2800
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3969ee8a85dc6d60800000000000000
+      internalID: 7884911838698760511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2763
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a4c32a58677f9a0800000000000000
+      internalID: -6199356045727610366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_3
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2800
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e3c900278195ed0800000000000000
+      internalID: -2424880046446723442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_4
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2763
+        width: 91
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40a657dbdeddf570800000000000000
+      internalID: 8502196707337347151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_5
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 2799
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f74ed8f699088b10800000000000000
+      internalID: 1983846179881764851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_6
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 2763
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a09a22f84c42490800000000000000
+      internalID: -7771870937893762489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_7
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 2797
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb9e03c945dbe490800000000000000
+      internalID: -7715839023787369504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_8
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 2763
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322963f7477404cf0800000000000000
+      internalID: -270137411966168541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_9
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2796
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1016671bc5bdb51b0800000000000000
+      internalID: -5666694514954837759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_10
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 2763
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe16ad16064f4720800000000000000
+      internalID: 2832559682720505532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_11
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 2793
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd4755bc39b41470800000000000000
+      internalID: 8364514078325427652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_12
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2456
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5151a4bd9aa29e90800000000000000
+      internalID: -7020361274800123553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2483
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30db70d15904bfb0800000000000000
+      internalID: -4633067869662621637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_14
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2456
+        width: 90
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf34200371abefe00800000000000000
+      internalID: 1080505569367966715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_15
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2482
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a85ffd2d61579030800000000000000
+      internalID: 3501356764668844192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_16
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2456
+        width: 89
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc98832ba865bcd00800000000000000
+      internalID: 993983296460851661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_17
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 2484
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fe5e98acc4512f0800000000000000
+      internalID: -1002810909239414975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_18
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 2456
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd71dad2f29d13d60800000000000000
+      internalID: 7868308820645976028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_19
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 2485
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b7a6d1c91137ec0800000000000000
+      internalID: -3570490717368583286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_20
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 2456
+        width: 90
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621a799e3e86baba0800000000000000
+      internalID: -6076647944120458970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_21
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2488
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da88ff5d5f21da40800000000000000
+      internalID: 5391142307027782359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_22
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 2459
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cba920c4ef3548a0800000000000000
+      internalID: -6321576250235573312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_23
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 2496
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacb07a2d2fee3530800000000000000
+      internalID: 3836766909830839467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_24
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2176
+        width: 90
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588568a8fcd02b9c0800000000000000
+      internalID: -3913049941198088059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_25
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2195
+        width: 89
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127a131fb165f8190800000000000000
+      internalID: -7958047338529708255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_26
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 2216
+        width: 89
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be3694fe617e0f90800000000000000
+      internalID: -6985521250641232205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_27
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 2268
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eb7669933e79f50800000000000000
+      internalID: 6888223991562485383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_28
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 2237
+        width: 90
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a59b335713add9f0800000000000000
+      internalID: -442017867836451420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_29
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2289
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17333dd95b00ae570800000000000000
+      internalID: 8496604427024806769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_30
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 2258
+        width: 90
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cd199e7633d54e0800000000000000
+      internalID: -1991378938834592753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_31
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 2303
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde2628505bccec30800000000000000
+      internalID: 4390107282716110556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_32
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2161
+        width: 90
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78c9e8835be03eb0800000000000000
+      internalID: -4742031663609296774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_33
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2225
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3577391273e0f4080800000000000000
+      internalID: -9201119883745331373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_34
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 2246
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2462f72bc924f7db0800000000000000
+      internalID: -4792038237721909694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_35
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2205
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8a5c2d2fbe33630800000000000000
+      internalID: 3905724730011134150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_36
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1972
+        width: 96
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c9c7a60a286b2c0800000000000000
+      internalID: -4416198759097263063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_37
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1992
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e34bbb4b6b6d3e20800000000000000
+      internalID: 3331937407900271593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_38
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1991
+        width: 116
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dd125ab39e28110800000000000000
+      internalID: 1261827287999962382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_39
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1988
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f28b4c0505f2110800000000000000
+      internalID: 1238296730378186515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_40
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1977
+        width: 90
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d1c6c547e8a1bd0800000000000000
+      internalID: -2658655999590916723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_41
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 2024
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7cc17616e7e9630800000000000000
+      internalID: 3935722081175259045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_42
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1971
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc6cb223c6085320800000000000000
+      internalID: 2546793024449178876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_43
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1982
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f397179a5af880e50800000000000000
+      internalID: 6775823581054073151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_44
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1989
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143444dab4bb90130800000000000000
+      internalID: 3533561316352738113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_45
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1965
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4cb6827607d7770800000000000000
+      internalID: 8610161650964350147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_46
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1956
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafcfdd720b79bfe0800000000000000
+      internalID: -1172770977321332817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_47
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1965
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f61c082f6c66e800800000000000000
+      internalID: 641319221615924985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_48
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1781
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3d9b40eee130490800000000000000
+      internalID: -7781341723535748156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_49
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1790
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed4329d0ad222970800000000000000
+      internalID: 8728589196658429416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_50
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1782
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86807de005c6f5da0800000000000000
+      internalID: -5953921091258349464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_51
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1676
+        width: 91
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a8ca73fad28c8e0800000000000000
+      internalID: -1673037030991558005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_52
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1753
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b277a43475f35e860800000000000000
+      internalID: 7558517193634903851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_53
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1669
+        width: 90
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611680401e267d8c0800000000000000
+      internalID: -3974599427556351722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_54
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1681
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5066dc24ad8584280800000000000000
+      internalID: -9058892956008880635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_55
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1683
+        width: 116
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd4fd6c0773cd860800000000000000
+      internalID: 7555975232333237699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_56
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1687
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9302da666c60e10800000000000000
+      internalID: 2163634815291636142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_57
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1681
+        width: 90
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d450b24f96899a0800000000000000
+      internalID: -6226109987425006259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_58
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1757
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c5a9a6e14d46f30800000000000000
+      internalID: 4568009149163134104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_59
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1724
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b37f44289799d00800000000000000
+      internalID: 979947994339556167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_60
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1367
+        width: 90
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e666085ab21e2e2e0800000000000000
+      internalID: -2097866898824731026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_61
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1411
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35a3d4580d2c98d0800000000000000
+      internalID: -2838344151344110273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_62
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1357
+        width: 90
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97f3d4d64518a800800000000000000
+      internalID: 623771942353368991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_63
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1405
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3ae313e104c7c20800000000000000
+      internalID: 3205507533200335784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_64
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1342
+        width: 89
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c966f956987cf360800000000000000
+      internalID: 7204766091035699656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_65
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1391
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1186a005ae577f0800000000000000
+      internalID: -615328144573328909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_66
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1325
+        width: 89
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c3fa5f475d4be90800000000000000
+      internalID: -7010744021594194852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_67
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1373
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18967f885a13dfc60800000000000000
+      internalID: 7853487912241293697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_68
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1306
+        width: 90
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003c5c69ef7e32f70800000000000000
+      internalID: 9161421147638973184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_69
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1287
+        width: 90
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6eaa0a952b2d770800000000000000
+      internalID: 8634159533640050407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_70
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1354
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5efa902b2f0a1740800000000000000
+      internalID: 5123424203992399454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_71
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1334
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cedfb9bdb085c650800000000000000
+      internalID: 6252545210027335365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_72
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1097
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068a85df1cee2fa10800000000000000
+      internalID: 1941876906296649824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_73
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1086
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63284e6bb04bd2e70800000000000000
+      internalID: 9092121185136968246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_74
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1075
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eb404f2f19662f0800000000000000
+      internalID: -979935396244439492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_75
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1052
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec95c93277b03170800000000000000
+      internalID: 8156220626391375076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_76
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 961
+        width: 90
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c1ac3835b08ffe0800000000000000
+      internalID: -1155160851099280239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_77
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1007
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2382d44e6d9dac0800000000000000
+      internalID: -3829793732066528592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_78
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 945
+        width: 90
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da76578cad39534a0800000000000000
+      internalID: -6614217909848414291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_79
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 989
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbf64552a97b8f70800000000000000
+      internalID: 9190573202702007251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_80
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 925
+        width: 89
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a37909b74f5f6c0800000000000000
+      internalID: -4110110273361724779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_81
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 977
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d0ee8052a11b0c0800000000000000
+      internalID: -4561836201183670900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_82
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 924
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebf627d8831ae660800000000000000
+      internalID: 7415761214865079271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_83
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 921
+        width: 90
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a892f6f5d65b20a40800000000000000
+      internalID: 5333024390117271946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_84
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 921
+        width: 90
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b23ca3e764af6ae0800000000000000
+      internalID: -1553842580311231823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_85
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 968
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca74892d09e0dd90800000000000000
+      internalID: -7074898771858654513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_86
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 962
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d98eedf13e91320800000000000000
+      internalID: 2529302391768522130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_87
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 956
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790f24025049d31e0800000000000000
+      internalID: -2216452691859410793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_88
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 614
+        width: 90
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab044566fd1216830800000000000000
+      internalID: 4062565582243119290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_89
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 648
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f2adfaa7b0a5940800000000000000
+      internalID: 5285549734236925758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_90
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 614
+        width: 90
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9617a085b243cc850800000000000000
+      internalID: 6398546531351949673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_91
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 649
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec8fdab1b4f13600800000000000000
+      internalID: 446406882267991271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_92
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 614
+        width: 89
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d8c0fb25012c1a0800000000000000
+      internalID: -6790847340542653169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_93
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 652
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b02b8f1b921ffd70800000000000000
+      internalID: 9078995831260651697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_94
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 614
+        width: 90
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20101c7bd145871c0800000000000000
+      internalID: -4505758940570517246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_95
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 654
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68250c4f3f58fc180800000000000000
+      internalID: -9092901839807950202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_96
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 614
+        width: 92
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fbd5503b8e832a0800000000000000
+      internalID: -6757395385282609332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_97
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 657
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148d68c8778c49b70800000000000000
+      internalID: 8904962779002624065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_98
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 614
+        width: 92
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becef8ced0678b640800000000000000
+      internalID: 5095952780545223915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_99
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 655
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffb3186231ae9eb0800000000000000
+      internalID: -4711150922316398605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_100
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 307
+        width: 90
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de13887eb6b83f130800000000000000
+      internalID: 3599373822761382381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_101
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 346
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3941bd00a402b10800000000000000
+      internalID: 1954643605814809531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_102
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 307
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34acc1b93d00eb640800000000000000
+      internalID: 5097512737070434883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_103
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 342
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e325b224f17c3260800000000000000
+      internalID: 7078658007687832551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_104
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 308
+        width: 89
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce047a66c581fc20800000000000000
+      internalID: 3238516694292106953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_105
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 337
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e92d456e9cd9e80800000000000000
+      internalID: -8170152157877461376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_106
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 307
+        width: 92
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c6cc96995a1d240800000000000000
+      internalID: 4814811554959354995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_107
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 340
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fc26f74a0398710800000000000000
+      internalID: 1695940217751654188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_108
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 307
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e5af7081777e680800000000000000
+      internalID: -8725874807910277632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_109
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 342
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a05cd427bd61f90800000000000000
+      internalID: -6983152888213861837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_110
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 307
+        width: 93
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de219f61cfc05a70800000000000000
+      internalID: 8813772900471484113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_111
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 345
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85074726514e82ed0800000000000000
+      internalID: -2438448417723879336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_112
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1
+        width: 90
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753dad788e6fe6bd0800000000000000
+      internalID: -2634897253393050793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_113
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 39
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dc4dc9ef7c30d60800000000000000
+      internalID: 7855342071431089486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_114
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1
+        width: 90
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abecbd0d83b526b30800000000000000
+      internalID: 4279082895535754938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_115
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 39
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54eeab680e743b870800000000000000
+      internalID: 8697374335041203781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_116
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1
+        width: 89
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab45c027cbe4e0580800000000000000
+      internalID: -8859056845716958022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_117
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 37
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481930d8c945cdf70800000000000000
+      internalID: 9213331969050644868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_118
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5a37be794ae0cd0800000000000000
+      internalID: -2589951763294214745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_119
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 37
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e36d524edfe6680800000000000000
+      internalID: -8759785068859867609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_120
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5417dee683badd1a0800000000000000
+      internalID: -6783077204882525883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_121
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 37
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a595db5b4db42ea20800000000000000
+      internalID: 3090115671283816794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_122
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbc58b0714bef180800000000000000
+      internalID: -9079621787661775887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strawberrry_123
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 37
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38828348feda5e710800000000000000
+      internalID: 1721973676766144643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

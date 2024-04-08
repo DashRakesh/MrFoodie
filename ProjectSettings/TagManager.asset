@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Undefined
+  - Fruits
+  - Ground
+  - Box
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Ground
+  - Player
+  - Fruits
+  - Arrows
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3786615229
+    locked: 0
+  - name: Grass
+    uniqueID: 1424693121
+    locked: 0
+  - name: board
+    uniqueID: 2446816561
+    locked: 0
+  - name: FruitGarbaze
+    uniqueID: 1037860773
+    locked: 0
+  - name: FullContainer
+    uniqueID: 2506094879
+    locked: 0
+  - name: halfContainer
+    uniqueID: 1022785909
+    locked: 0
+  - name: otherHalfContainer
+    uniqueID: 320645607
+    locked: 0
+  - name: Fruits
+    uniqueID: 2585090615
+    locked: 0
+  - name: Scoreboard
+    uniqueID: 3144632011
+    locked: 0
+  - name: Player
+    uniqueID: 622513069
+    locked: 0

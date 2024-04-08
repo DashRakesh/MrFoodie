@@ -1,0 +1,2520 @@
+fileFormatVersion: 2
+guid: 7dfffade43169ac498db4f104dc1f97f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8617278338890539712
+    second: mango_0
+  - first:
+      213: 5781706893970150123
+    second: mango_1
+  - first:
+      213: 6482297444964963036
+    second: mango_2
+  - first:
+      213: 2185420024920433068
+    second: mango_3
+  - first:
+      213: 2882591667437900894
+    second: mango_4
+  - first:
+      213: 8187503805088909424
+    second: mango_5
+  - first:
+      213: -4862418711664096601
+    second: mango_6
+  - first:
+      213: -8226586837543848442
+    second: mango_7
+  - first:
+      213: 6863036640165974363
+    second: mango_8
+  - first:
+      213: -2535927944999281919
+    second: mango_9
+  - first:
+      213: -7275894547644741726
+    second: mango_10
+  - first:
+      213: -1556858810006102333
+    second: mango_11
+  - first:
+      213: -3190551372690965856
+    second: mango_12
+  - first:
+      213: 7805496677836441081
+    second: mango_13
+  - first:
+      213: -9154471259117395984
+    second: mango_14
+  - first:
+      213: 7701858779036781025
+    second: mango_15
+  - first:
+      213: -8033229140022403853
+    second: mango_16
+  - first:
+      213: -232085078977575779
+    second: mango_17
+  - first:
+      213: -5392676482556467321
+    second: mango_18
+  - first:
+      213: 3656260070971107287
+    second: mango_19
+  - first:
+      213: 8664456457309253191
+    second: mango_20
+  - first:
+      213: -4952697405947424047
+    second: mango_21
+  - first:
+      213: 1175840802595540866
+    second: mango_22
+  - first:
+      213: -9168532771783381156
+    second: mango_23
+  - first:
+      213: 1289620676093599582
+    second: mango_24
+  - first:
+      213: -625277040285185842
+    second: mango_25
+  - first:
+      213: -3668512196335456616
+    second: mango_26
+  - first:
+      213: -2856033065042267250
+    second: mango_27
+  - first:
+      213: -2816937264187553733
+    second: mango_28
+  - first:
+      213: 276030250090010305
+    second: mango_29
+  - first:
+      213: 3738343032576477548
+    second: mango_30
+  - first:
+      213: 2233280075991034095
+    second: mango_31
+  - first:
+      213: 1691613529253615069
+    second: mango_32
+  - first:
+      213: -7025858362982599851
+    second: mango_33
+  - first:
+      213: -2136152837520867518
+    second: mango_34
+  - first:
+      213: -1550950321926820027
+    second: mango_35
+  - first:
+      213: -9077382805105075949
+    second: mango_36
+  - first:
+      213: -1774417528620265871
+    second: mango_37
+  - first:
+      213: 424741087856359881
+    second: mango_38
+  - first:
+      213: 7196015911468336090
+    second: mango_39
+  - first:
+      213: 143341517060986702
+    second: mango_40
+  - first:
+      213: 566522291670995630
+    second: mango_41
+  - first:
+      213: 5064800810118326649
+    second: mango_42
+  - first:
+      213: -1775571370942344575
+    second: mango_43
+  - first:
+      213: -2393474560118790171
+    second: mango_44
+  - first:
+      213: -3116618635524445663
+    second: mango_45
+  - first:
+      213: -52390691157326617
+    second: mango_46
+  - first:
+      213: 7120774259467432050
+    second: mango_47
+  - first:
+      213: 729758271556124276
+    second: mango_48
+  - first:
+      213: -3657681548919659586
+    second: mango_49
+  - first:
+      213: 7667685275742205936
+    second: mango_50
+  - first:
+      213: 8680773715336334017
+    second: mango_51
+  - first:
+      213: -3322983851402796976
+    second: mango_52
+  - first:
+      213: -4678447771658719992
+    second: mango_53
+  - first:
+      213: 1516587264088265246
+    second: mango_54
+  - first:
+      213: -1452948834417069073
+    second: mango_55
+  - first:
+      213: -3542800422819456117
+    second: mango_56
+  - first:
+      213: -3181075372148277889
+    second: mango_57
+  - first:
+      213: -7441741813958065369
+    second: mango_58
+  - first:
+      213: 1024492812287933331
+    second: mango_59
+  - first:
+      213: 3864402658003616131
+    second: mango_60
+  - first:
+      213: 913378317075449095
+    second: mango_61
+  - first:
+      213: -5248057539675502901
+    second: mango_62
+  - first:
+      213: 6502192987498326479
+    second: mango_63
+  - first:
+      213: 5186783895372494219
+    second: mango_64
+  - first:
+      213: -5728131645805173366
+    second: mango_65
+  - first:
+      213: -3000292642001794293
+    second: mango_66
+  - first:
+      213: -1894963286508051543
+    second: mango_67
+  - first:
+      213: -3552286049627819044
+    second: mango_68
+  - first:
+      213: 2654342379366753939
+    second: mango_69
+  - first:
+      213: -106190654238324123
+    second: mango_70
+  - first:
+      213: -2006510127970519901
+    second: mango_71
+  - first:
+      213: 3898068600597264186
+    second: mango_72
+  - first:
+      213: -306312830976224795
+    second: mango_73
+  - first:
+      213: -6019683698856987176
+    second: mango_74
+  - first:
+      213: -5491226885444376276
+    second: mango_75
+  - first:
+      213: -4033663091172757638
+    second: mango_76
+  - first:
+      213: -699906572231566
+    second: mango_77
+  - first:
+      213: -5595006902737986556
+    second: mango_78
+  - first:
+      213: 7136581068258297963
+    second: mango_79
+  - first:
+      213: 4081341253313073744
+    second: mango_80
+  - first:
+      213: -1475940204666865077
+    second: mango_81
+  - first:
+      213: 6442432501077072809
+    second: mango_82
+  - first:
+      213: -4086452084512898896
+    second: mango_83
+  - first:
+      213: -3813245489721323302
+    second: mango_84
+  - first:
+      213: 7584829234746894821
+    second: mango_85
+  - first:
+      213: -5199299318560357628
+    second: mango_86
+  - first:
+      213: -4722514157125276822
+    second: mango_87
+  - first:
+      213: -6823315810099369237
+    second: mango_88
+  - first:
+      213: -4112407888777464715
+    second: mango_89
+  - first:
+      213: -5355494548592020725
+    second: mango_90
+  - first:
+      213: 979004802919131822
+    second: mango_91
+  - first:
+      213: 1056423989450556801
+    second: mango_92
+  - first:
+      213: 3566999833527410698
+    second: mango_93
+  - first:
+      213: 365186379666716958
+    second: mango_94
+  - first:
+      213: 2705630278352390715
+    second: mango_95
+  - first:
+      213: 3997718450705487813
+    second: mango_96
+  - first:
+      213: 6858028274474328840
+    second: mango_97
+  - first:
+      213: -2016365591481418993
+    second: mango_98
+  - first:
+      213: 5928147279009286045
+    second: mango_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mango_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2147
+        width: 134
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c22d303ef8b69770800000000000000
+      internalID: 8617278338890539712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_1
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2147
+        width: 135
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2948a89cfbc3050800000000000000
+      internalID: 5781706893970150123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_2
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2147
+        width: 137
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd21f877e2fb5f950800000000000000
+      internalID: 6482297444964963036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_3
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 2147
+        width: 137
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1686e0feb245e10800000000000000
+      internalID: 2185420024920433068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_4
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 2147
+        width: 140
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54132259d5010820800000000000000
+      internalID: 2882591667437900894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_5
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 2147
+        width: 143
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078cb7bd45bdf9170800000000000000
+      internalID: 8187503805088909424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_6
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 2147
+        width: 144
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa8c06a1f7358cb0800000000000000
+      internalID: -4862418711664096601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_7
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 2147
+        width: 145
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6067b4a8bda45dd80800000000000000
+      internalID: -8226586837543848442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_8
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 2147
+        width: 148
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51559956776e3f50800000000000000
+      internalID: 6863036640165974363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_9
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 2147
+        width: 146
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bd45e48f29eccd0800000000000000
+      internalID: -2535927944999281919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_10
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 2147
+        width: 145
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a70f605574d60b90800000000000000
+      internalID: -7275894547644741726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_11
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 2147
+        width: 144
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce1620392de46ae0800000000000000
+      internalID: -1556858810006102333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_12
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1840
+        width: 141
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aabe194e62e8b3d0800000000000000
+      internalID: -3190551372690965856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1844
+        width: 140
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5cee98fd1b25c60800000000000000
+      internalID: 7805496677836441081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_14
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1860
+        width: 138
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffd8cd64e8c4f080800000000000000
+      internalID: -9154471259117395984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_15
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1878
+        width: 136
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e906bad0cf72ea60800000000000000
+      internalID: 7701858779036781025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_16
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1902
+        width: 138
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcd5a5b8ac348090800000000000000
+      internalID: -8033229140022403853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_17
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1920
+        width: 141
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d948fdda9d777ccf0800000000000000
+      internalID: -232085078977575779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_18
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1938
+        width: 142
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7876e9c8f4d5925b0800000000000000
+      internalID: -5392676482556467321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_19
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 1949
+        width: 147
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d76da0b925adb230800000000000000
+      internalID: 3656260070971107287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_20
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 1952
+        width: 147
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ee1cddd355e3870800000000000000
+      internalID: 8664456457309253191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_21
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 1952
+        width: 152
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2518623fb744bb0800000000000000
+      internalID: -4952697405947424047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_22
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 1952
+        width: 154
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f0e17eafc615010800000000000000
+      internalID: 1175840802595540866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_23
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 1954
+        width: 148
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fe2526504d2c080800000000000000
+      internalID: -9168532771783381156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1646
+        width: 139
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fde851c27a5e110800000000000000
+      internalID: 1289620676093599582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_25
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1646
+        width: 132
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8089f38d19257f0800000000000000
+      internalID: -625277040285185842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_26
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1715
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89eac331893d61dc0800000000000000
+      internalID: -3668512196335456616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_27
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1642
+        width: 125
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83b26b2f055d58d0800000000000000
+      internalID: -2856033065042267250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_28
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1709
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b384a85ab7a38e8d0800000000000000
+      internalID: -2816937264187553733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_29
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1639
+        width: 129
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c690ebcc08a4d300800000000000000
+      internalID: 276030250090010305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_30
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1636
+        width: 137
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6907497e2341e330800000000000000
+      internalID: 3738343032576477548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_31
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1633
+        width: 139
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8276d85643efe10800000000000000
+      internalID: 2233280075991034095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_32
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1636
+        width: 143
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd51864da81d97710800000000000000
+      internalID: 1691613529253615069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_33
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 1708
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553f6302b032f7e90800000000000000
+      internalID: -7025858362982599851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_34
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 1639
+        width: 144
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f30a5ef4cda52e0800000000000000
+      internalID: -2136152837520867518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_35
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 1713
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f264546eae97ae0800000000000000
+      internalID: -1550950321926820027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_36
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 1643
+        width: 145
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319197bce68a60280800000000000000
+      internalID: -9077382805105075949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_37
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 1646
+        width: 148
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ecc53b8a00067e0800000000000000
+      internalID: -1774417528620265871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_38
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 1648
+        width: 151
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9f03fd4cbf4e500800000000000000
+      internalID: 424741087856359881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_39
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 1646
+        width: 155
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3012968526dd360800000000000000
+      internalID: 7196015911468336090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_40
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1340
+        width: 158
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e475cfda9504df100800000000000000
+      internalID: 143341517060986702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_41
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1340
+        width: 148
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2d360d501bcd700800000000000000
+      internalID: 566522291670995630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_42
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1340
+        width: 139
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979a6399089c94640800000000000000
+      internalID: 5064800810118326649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_43
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1339
+        width: 128
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182d0a9de37eb57e0800000000000000
+      internalID: -1775571370942344575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_44
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1407
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e76f29919ba8ced0800000000000000
+      internalID: -2393474560118790171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_45
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1335
+        width: 121
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ae3311ddb8fb4d0800000000000000
+      internalID: -3116618635524445663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_46
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1402
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4c708a1fed54ff0800000000000000
+      internalID: -52390691157326617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_47
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1331
+        width: 119
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2703d45267212d260800000000000000
+      internalID: 7120774259467432050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_48
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1329
+        width: 127
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e7104184f902a00800000000000000
+      internalID: 729758271556124276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_49
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1326
+        width: 132
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3a42fa20e4d3dc0800000000000000
+      internalID: -3657681548919659586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_50
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 1328
+        width: 138
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f77b161227196a60800000000000000
+      internalID: 7667685275742205936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_51
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 1330
+        width: 141
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca8b2e83bd487870800000000000000
+      internalID: 8680773715336334017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_52
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 1404
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050e6c60bc362e1d0800000000000000
+      internalID: -3322983851402796976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_53
+      rect:
+        serializedVersion: 2
+        x: 3147
+        y: 1331
+        width: 143
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d60160a80d21fb0800000000000000
+      internalID: -4678447771658719992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_54
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 1407
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12dcdad4100c0510800000000000000
+      internalID: 1516587264088265246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_55
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 1335
+        width: 146
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3b0cfabb616dbe0800000000000000
+      internalID: -1452948834417069073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_56
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1029
+        width: 150
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b1eb739c175dec0800000000000000
+      internalID: -3542800422819456117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_57
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1032
+        width: 151
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dbb579dcc8ad3d0800000000000000
+      internalID: -3181075372148277889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_58
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1032
+        width: 146
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723cbdc8f3f99b890800000000000000
+      internalID: -7441741813958065369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_59
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1027
+        width: 141
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bfc57e8cab73e00800000000000000
+      internalID: 1024492812287933331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_60
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1015
+        width: 138
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38181633ebd11a530800000000000000
+      internalID: 3864402658003616131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_61
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 999
+        width: 138
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70583d67db8fcac00800000000000000
+      internalID: 913378317075449095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_62
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 979
+        width: 137
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6c4da19772b27b0800000000000000
+      internalID: -5248057539675502901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_63
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 957
+        width: 139
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9afd0721e6c3a50800000000000000
+      internalID: 6502192987498326479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_64
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 937
+        width: 143
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85f46ad8782bf740800000000000000
+      internalID: 5186783895372494219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_65
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 921
+        width: 145
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85eb19fd969180b0800000000000000
+      internalID: -5728131645805173366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_66
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 919
+        width: 150
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bc3430db1dc56d0800000000000000
+      internalID: -3000292642001794293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_67
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 919
+        width: 155
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3e74d4eecb3b5e0800000000000000
+      internalID: -1894963286508051543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_68
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 613
+        width: 158
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3bb5f98aeb3bec0800000000000000
+      internalID: -3552286049627819044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_69
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 613
+        width: 161
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396ab6aa45e16d420800000000000000
+      internalID: 2654342379366753939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_70
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 611
+        width: 164
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a88af992cb68ef0800000000000000
+      internalID: -106190654238324123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_71
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 613
+        width: 164
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4f7186ba17724e0800000000000000
+      internalID: -2006510127970519901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_72
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 613
+        width: 163
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3734b84db8b81630800000000000000
+      internalID: 3898068600597264186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_73
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 613
+        width: 158
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e194876a12cfbbf0800000000000000
+      internalID: -306312830976224795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_74
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 613
+        width: 149
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d57b6dc199c57ca0800000000000000
+      internalID: -6019683698856987176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_75
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 613
+        width: 143
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c296300dd3e3bc3b0800000000000000
+      internalID: -5491226885444376276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_76
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 614
+        width: 138
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f2b033acc8508c0800000000000000
+      internalID: -4033663091172757638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_77
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 615
+        width: 135
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cd26d40738dfff0800000000000000
+      internalID: -699906572231566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_78
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 617
+        width: 131
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c91769dda8a52b0800000000000000
+      internalID: -5595006902737986556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_79
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 620
+        width: 132
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68405c9baa3a0360800000000000000
+      internalID: 7136581068258297963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_80
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 314
+        width: 132
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0529fdafe36d3a830800000000000000
+      internalID: 4081341253313073744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_81
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 315
+        width: 135
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a3d172438648be0800000000000000
+      internalID: -1475940204666865077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_82
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 314
+        width: 136
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab512ce93e186950800000000000000
+      internalID: 6442432501077072809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_83
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 313
+        width: 137
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b044f6ea710a47c0800000000000000
+      internalID: -4086452084512898896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_84
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 309
+        width: 141
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0dcc73e61a41bc0800000000000000
+      internalID: -3813245489721323302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_85
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 306
+        width: 141
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9261bb00ab24960800000000000000
+      internalID: 7584829234746894821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_86
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 305
+        width: 143
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403874c11d068d7b0800000000000000
+      internalID: -5199299318560357628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_87
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 305
+        width: 145
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b6bc12562467eb0800000000000000
+      internalID: -4722514157125276822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_88
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 305
+        width: 147
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea68b41c66be41a0800000000000000
+      internalID: -6823315810099369237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_89
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 305
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574b7e940dacde6c0800000000000000
+      internalID: -4112407888777464715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_90
+      rect:
+        serializedVersion: 2
+        x: 3152
+        y: 305
+        width: 146
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03b1aa25167da5b0800000000000000
+      internalID: -5355494548592020725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_91
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 305
+        width: 145
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa65676eaf169d00800000000000000
+      internalID: 979004802919131822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_92
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 141
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185c66f650c29ae00800000000000000
+      internalID: 1056423989450556801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_93
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 0
+        width: 139
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0067472377808130800000000000000
+      internalID: 3566999833527410698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_94
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 138
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1978d4d317611500800000000000000
+      internalID: 365186379666716958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_95
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 0
+        width: 135
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a4cb237645c8520800000000000000
+      internalID: 2705630278352390715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_96
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 0
+        width: 135
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7535600cfba7730800000000000000
+      internalID: 3997718450705487813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_97
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 0
+        width: 135
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803a0a7516c9c2f50800000000000000
+      internalID: 6858028274474328840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_98
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 0
+        width: 135
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bfd6e7d2e6404e0800000000000000
+      internalID: -2016365591481418993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mango_99
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 0
+        width: 134
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d970c85aa82054250800000000000000
+      internalID: 5928147279009286045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
